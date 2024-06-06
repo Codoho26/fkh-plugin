@@ -19,6 +19,8 @@
 
     <version>1.0</version>
 
+    <idea-version since-build="213" until-build="241.*"/>
+
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
@@ -28,10 +30,11 @@
 
     <!-- Extension points defined by the plugin.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-extension-points.html -->
-    <extensions defaultExtensionNs="com.intellij"></extensions>
+
+    <!--    <extensions defaultExtensionNs="com.intellij"></extensions>-->
     <actions>
         <action id="GitCommitHelper" class="n26.plugin.n26plugin.CommitMessageAction" text="Create Commit with Jira Ticket" description="Creates a new git commit with Jira ticket number">
-            <keyboard-shortcut keymap="$default" first-keystroke="meta shift K"/>
+            <keyboard-shortcut keymap="macOS System Shortcuts" first-keystroke="ctrl shift L"/>
         </action>
     </actions>
 </idea-plugin>
