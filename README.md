@@ -1,2 +1,3 @@
-# n26-plugin
-This is N26's custom Intellij plugin
+# fkh-plugin
+
+This is a custom Intellij plugin
