@@ -4,7 +4,7 @@ plugins {
     kotlin("jvm") version "1.9.23"
 }
 
-group = "n26.plugin"
+group = "fkh.plugin"
 version = "1.0-SNAPSHOT"
 
 repositories {

@@ -1,4 +1,4 @@
-package n26.plugin.n26plugin
+package fkh.plugin
 
 import com.intellij.openapi.actionSystem.AnAction
 import com.intellij.openapi.actionSystem.AnActionEvent

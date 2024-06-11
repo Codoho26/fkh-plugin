@@ -1,1 +1,1 @@
-rootProject.name = "n26-plugin"
+rootProject.name = "fkh-plugin"
