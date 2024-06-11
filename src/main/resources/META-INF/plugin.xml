@@ -8,7 +8,7 @@
     <name>Jira actions</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="faraz.khatami@gmail.com" url=""></vendor>
+    <vendor email="faraz.khatami@gmail.com" url="">Faraz Khatami</vendor>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
